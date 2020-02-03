@@ -1,14 +1,176 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "_id": "5e387e65d66eec20e86e0047",
+    "index": 0,
+    "guid": "04521b69-219f-42f2-aa8a-0ae5ec3515e3",
+    "isActive": false,
+    "age": 23,
+    "name": "Williamson Banks",
+    "gender": "male",
+    "company": "GOKO",
+    "email": "williamsonbanks@goko.com",
+    "phone": "+1 (993) 448-2648",
+    "address": "403 Jefferson Avenue, Klondike, Alabama, 3236",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Copeland Weeks"
+      },
+      {
+        "id": 1,
+        "name": "Bette Marks"
+      },
+      {
+        "id": 2,
+        "name": "Davis Chen"
+      }
+    ],
+    "greeting": "Hello, Williamson Banks! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5e387e656f002ef07d0a0201",
+    "index": 1,
+    "guid": "137d8001-28af-4f03-9135-cb5d3882d780",
+    "isActive": true,
+    "age": 22,
+    "name": "Gross Tate",
+    "gender": "male",
+    "company": "MANTRO",
+    "email": "grosstate@mantro.com",
+    "phone": "+1 (894) 560-2207",
+    "address": "236 Navy Street, Veguita, Northern Mariana Islands, 8670",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Moon Morrison"
+      },
+      {
+        "id": 1,
+        "name": "Lewis Stephenson"
+      },
+      {
+        "id": 2,
+        "name": "Clarice Hughes"
+      }
+    ],
+    "greeting": "Hello, Gross Tate! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5e387e6538e87d1365820f92",
+    "index": 2,
+    "guid": "644cf8e0-40d9-484a-9431-df2eb76e64c2",
+    "isActive": true,
+    "age": 40,
+    "name": "Bonita Hodges",
+    "gender": "female",
+    "company": "JOVIOLD",
+    "email": "bonitahodges@joviold.com",
+    "phone": "+1 (820) 470-3468",
+    "address": "551 Jackson Place, Siglerville, Ohio, 9425",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Potts Bates"
+      },
+      {
+        "id": 1,
+        "name": "Bryant Dawson"
+      },
+      {
+        "id": 2,
+        "name": "Shepard Lane"
+      }
+    ],
+    "greeting": "Hello, Bonita Hodges! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5e387e657edf019f9f159588",
+    "index": 3,
+    "guid": "8877e10d-ff15-4978-a5de-673335f63373",
+    "isActive": false,
+    "age": 27,
+    "name": "Phoebe Walker",
+    "gender": "female",
+    "company": "SHOPABOUT",
+    "email": "phoebewalker@shopabout.com",
+    "phone": "+1 (952) 505-2642",
+    "address": "551 Lake Avenue, Lemoyne, North Dakota, 811",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Greene Collins"
+      },
+      {
+        "id": 1,
+        "name": "Haley Carrillo"
+      },
+      {
+        "id": 2,
+        "name": "Mcgowan Ortiz"
+      }
+    ],
+    "greeting": "Hello, Phoebe Walker! You have 2 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5e387e65df7ee1aa447e0b24",
+    "index": 4,
+    "guid": "d789bdf8-a3f2-47c6-a5ca-1ddcbbf954e9",
+    "isActive": false,
+    "age": 37,
+    "name": "Kara Compton",
+    "gender": "female",
+    "company": "MALATHION",
+    "email": "karacompton@malathion.com",
+    "phone": "+1 (866) 560-2884",
+    "address": "772 Cherry Street, Hickory, New Jersey, 4195",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Marcella Weber"
+      },
+      {
+        "id": 1,
+        "name": "Raquel Tyson"
+      },
+      {
+        "id": 2,
+        "name": "Hughes Duncan"
+      }
+    ],
+    "greeting": "Hello, Kara Compton! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5e387e6549bcc18e5db7bdd6",
+    "index": 5,
+    "guid": "c24ba799-edb2-4a15-8198-4989a6068e97",
+    "isActive": true,
+    "age": 33,
+    "name": "Dollie Morgan",
+    "gender": "female",
+    "company": "GRUPOLI",
+    "email": "dolliemorgan@grupoli.com",
+    "phone": "+1 (954) 524-3182",
+    "address": "484 Dare Court, Nelson, Missouri, 2880",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Stephens Gill"
+      },
+      {
+        "id": 1,
+        "name": "Kerr Reilly"
+      },
+      {
+        "id": 2,
+        "name": "Jennifer Campos"
+      }
+    ],
+    "greeting": "Hello, Dollie Morgan! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
   }
-}
+]
