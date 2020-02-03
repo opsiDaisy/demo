@@ -1,7 +1,7 @@
 {
   "users":[
   {
-    "_id": "5e387e65d66eec20e86e0047",
+    "id": "1",
     "index": 0,
     "guid": "04521b69-219f-42f2-aa8a-0ae5ec3515e3",
     "isActive": false,
@@ -30,7 +30,7 @@
     "favoriteFruit": "banana"
   },
   {
-    "_id": "5e387e656f002ef07d0a0201",
+    "id": "2",
     "index": 1,
     "guid": "137d8001-28af-4f03-9135-cb5d3882d780",
     "isActive": true,
@@ -59,7 +59,7 @@
     "favoriteFruit": "strawberry"
   },
   {
-    "_id": "5e387e6538e87d1365820f92",
+    "id": "3",
     "index": 2,
     "guid": "644cf8e0-40d9-484a-9431-df2eb76e64c2",
     "isActive": true,
@@ -88,7 +88,7 @@
     "favoriteFruit": "strawberry"
   },
   {
-    "_id": "5e387e657edf019f9f159588",
+    "id": "4",
     "index": 3,
     "guid": "8877e10d-ff15-4978-a5de-673335f63373",
     "isActive": false,
@@ -117,7 +117,7 @@
     "favoriteFruit": "banana"
   },
   {
-    "_id": "5e387e65df7ee1aa447e0b24",
+    "id": "5",
     "index": 4,
     "guid": "d789bdf8-a3f2-47c6-a5ca-1ddcbbf954e9",
     "isActive": false,
