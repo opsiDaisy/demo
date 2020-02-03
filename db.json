@@ -1,4 +1,5 @@
-[
+{
+  users:[
   {
     "_id": "5e387e65d66eec20e86e0047",
     "index": 0,
@@ -145,3 +146,4 @@
     "favoriteFruit": "banana"
   }
 ]
+}
